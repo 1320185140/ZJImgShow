@@ -1,0 +1,34 @@
+PODS:
+  - MJExtension (3.0.15.1)
+  - MLLabel (1.10.5)
+  - ReactiveObjC (3.1.0)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - UUButton (1.1)
+
+DEPENDENCIES:
+  - MJExtension
+  - MLLabel
+  - ReactiveObjC
+  - SDWebImage (~> 4.0.0)
+  - UUButton
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MJExtension
+    - MLLabel
+    - ReactiveObjC
+    - SDWebImage
+    - UUButton
+
+SPEC CHECKSUMS:
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  MLLabel: d76124055a2205e7f76878e62cd06ba925ba0c97
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  UUButton: 9a19bbe0c812a6920de21da8acca7a2d0bad52da
+
+PODFILE CHECKSUM: ab03b3474b51cc4756c78d6c38b32af17464979d
+
+COCOAPODS: 1.5.3
